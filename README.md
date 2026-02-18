@@ -1,90 +1,97 @@
-# Hi, I'm Farhan Ali 👋  
-### Mechatronics Engineer | Embedded Systems | Robotics | Automation
+<h1 align="center">Farhan Ali</h1>
+<h3 align="center">Mechatronics Engineer | Embedded Systems | Robotics | Intelligent Automation</h3>
 
-I am a Mechatronics Engineering student with a strong focus on embedded systems, microcontrollers, and intelligent automation.  
-Passionate about designing hardware-software integrated systems and building efficient real-world engineering solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;Firmware+Developer;Robotics+Innovator;Control+Systems+Enthusiast;IoT+System+Designer&center=true&width=700&height=50&color=0E75B6&vCenter=true&size=22">
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/farhan-ali-3a1b0528a">
+    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ali-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:farhanjhatyal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
 
 ---
 
-## 🚀 Technical Skills
+## 👨‍💻 Professional Summary
 
-### 🔹 Programming
-- C (Embedded C)
-- C++
-- Python
-- MATLAB
-- Basic Java & HTML
+Mechatronics Engineering student with strong expertise in embedded systems, microcontrollers, and automation-driven control systems.  
+Focused on building efficient hardware-software integrated solutions with real-time performance and industrial reliability.
+
+Passionate about:
+- Embedded Firmware Development  
+- Robotics & Autonomous Systems  
+- Control Systems Engineering  
+- IoT-Based Smart Systems  
+
+---
+
+## 🛠 Technical Skillset
+
+### 🔹 Programming Languages
+`C (Embedded C)` | `C++` | `Python` | `MATLAB`
 
 ### 🔹 Microcontrollers & Platforms
-- Arduino
-- STM32
-- ESP32
-- PIC Microcontrollers
+`STM32` | `ESP32` | `Arduino` | `PIC`
 
-### 🔹 Embedded Systems
-- GPIO, UART, SPI, I2C
-- ADC / PWM
-- Interrupt Handling
-- Timer Programming
-- RTOS Concepts (FreeRTOS Basics)
+### 🔹 Embedded Expertise
+`GPIO` | `UART` | `SPI` | `I2C` | `PWM` | `ADC` | `Timers` | `Interrupts` | `FreeRTOS`
 
-### 🔹 Tools & Software
-- Proteus
-- MATLAB / Simulink
-- Keil uVision
-- STM32CubeIDE
-- VS Code
-- Git & GitHub
+### 🔹 Engineering Tools
+`STM32CubeIDE` | `Keil uVision` | `Proteus` | `MATLAB/Simulink` | `Git` | `VS Code`
 
 ---
 
-## 🤖 Featured Projects
+## 🚀 Engineering Project Portfolio
 
-### 🔹 PID Controlled DC Motor
-- Designed closed-loop speed control system
-- Implemented PID algorithm in Embedded C
-- Used encoder feedback for accuracy
+> This section will be actively updated as I publish complete embedded and robotics systems.
 
-### 🔹 Line Following Robot
-- IR sensor array based navigation
-- PWM motor control
-- Optimized path correction algorithm
+### 🔸 Current Development Focus
+- STM32 Bare-Metal Driver Library  
+- PID Controlled DC Motor System  
+- ESP32 IoT Monitoring Platform  
+- FreeRTOS Multi-Tasking Embedded Application  
+- Autonomous Line Following Robot  
 
-### 🔹 IoT Smart Monitoring System
-- ESP32 based wireless monitoring
-- Real-time sensor data transmission
-- Cloud integration basics
-
-### 🔹 Embedded Driver Development
-- UART driver (Bare-metal)
-- I2C communication module
-- ADC sampling with interrupt
+### 🔸 What Each Project Includes
+✔ Modular Source Code  
+✔ Hardware Schematics  
+✔ Block Diagrams  
+✔ Performance Metrics  
+✔ Demonstration Media  
+✔ Technical Documentation  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance Analytics
 
-![Farhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&theme=default" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="170">
+</p>
 
----
-
-## 🎯 Career Objective
-
-Seeking opportunities in:
-- Embedded Systems Development
-- Robotics & Automation
-- Firmware Engineering
-- IoT System Design
-
-I am open to internships, research collaboration, and industry projects.
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default">
+</p>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Professional Objective
 
-- LinkedIn: (linkedin.com/in/farhan-ali)
-- Email: (farhanjhatyal@gmail.com)
+To design scalable, intelligent embedded systems that solve real-world industrial challenges in automation, robotics, and control engineering.
 
 ---
 
-⭐ “Engineering is not just about circuits and code — it's about solving real-world problems intelligently.”
+## 📫 Professional Contact
+
+LinkedIn: https://linkedin.com/in/farhan-ali-3a1b0528a  
+Email: farhanjhatyal@gmail.com  
+
+---
+
+<p align="center">
+  ⚙ Engineering Precision Through Code & Control Systems ⚙
+</p>
