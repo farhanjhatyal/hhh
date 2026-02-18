@@ -1,93 +1,83 @@
-<h1 align="center">Farhan Ali</h1>
+<h1 align="center">Hi 👋, I'm Farhan Ali</h1>
 <h3 align="center">Mechatronics Engineer | Embedded Systems | Robotics | Intelligent Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Engineer;Firmware+Developer;Robotics+System+Designer;Control+Systems+Enthusiast;IoT+Solutions+Builder&center=true&width=750&height=50&color=0E75B6&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Firmware+Developer;Robotics+System+Designer;IoT+Solutions+Builder;Control+Systems+Enthusiast">
 </p>
 
 ---
 
 ## 👨‍💼 Professional Summary
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Designing+Efficient+Embedded+Firmware;Integrating+Hardware+and+Software+Systems;Building+Real-Time+Control+Solutions;Developing+Automation+and+Robotics+Applications&center=true&width=900&height=40&color=444444&vCenter=true&size=18">
+[cite_start]I am a Mechatronics Engineering student from **Mehran University of Engineering and Technology (MUET)**. [cite_start]I specialize in bridging the gap between hardware and software, focusing on designing intelligent solutions for robotics and automation[cite: 164, 168]. 
+
+- [cite_start]🎓 **Undergraduate Mechatronics Engineer** at MUET[cite: 196, 197].
+- [cite_start]💡 **Specialization:** Embedded systems, microcontrollers, and real-time firmware[cite: 164].
+- [cite_start]🚀 **Mission:** Delivering performance-optimized engineering for industrial-standard applications[cite: 238, 240].
+
+---
+
+## 🛠 Tech Stack & Core Competencies
+
+### 💻 Programming & Software
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-ED8B00?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-Mechatronics Engineering student specializing in embedded systems, real-time firmware development, and intelligent automation. Experienced in designing hardware-software integrated systems using modern microcontrollers and control algorithms.
-
-Focused on delivering reliable, scalable, and performance-optimized engineering solutions for robotics, IoT, and industrial automation applications.
-
----
-
-## 🛠 Core Technical Competencies
-
-### Programming
-`Embedded C` | `C++` | `Python` | `MATLAB`
-
-### Microcontrollers & Platforms
-`STM32` | `ESP32` | `Arduino` | `PIC`
-
-### Embedded Systems Expertise
-`GPIO` | `UART` | `SPI` | `I2C` | `PWM` | `ADC` | `Timers` | `Interrupt Handling` | `FreeRTOS`
-
-### Engineering Tools
-`STM32CubeIDE` | `Keil uVision` | `Proteus` | `MATLAB/Simulink` | `Git` | `VS Code`
+### 🔌 Hardware & Microcontrollers
+- [cite_start]**Architectures:** STM32, ESP32, Arduino, PIC[cite: 164].
+- [cite_start]**Protocols:** GPIO, UART, SPI, I2C, PWM, ADC[cite: 110].
+- **OS/Tools:** FreeRTOS, STM32CubeIDE, Keil uVision, Proteus, MATLAB/Simulink.
 
 ---
 
-## 🚀 Engineering Project Portfolio
+## 🚀 Experience & Certifications
 
-This section will continuously evolve as new embedded and robotics systems are developed and published.
+### 💼 Professional Experience
+- **Internship Student | [cite_start]Arcroma / CodeAlpha** (Dec 2025 – Jan 2026)[cite: 146, 220].
+  - [cite_start]Worked on real-world engineering environments to master hardware-software integration[cite: 150].
 
-### 🔹 Active Development Areas
-- STM32 Bare-Metal Driver Library  
-- PID Controlled DC Motor System  
-- ESP32 IoT Monitoring Platform  
-- FreeRTOS Multi-Tasking Firmware  
-- Autonomous Robotic Navigation System  
-
-Each repository includes:
-- Modular Firmware Architecture  
-- Hardware Schematics  
-- System Block Diagrams  
-- Performance Analysis  
-- Demonstration Media  
-- Technical Documentation  
+### 📜 Certifications
+- [cite_start]**Harvard CS50’s Introduction to Computer Science:** Mastering algorithms and data structures for complex problem-solving.
+- [cite_start]**Embedded Systems Software & Development Environments:** Deep dive into professional firmware development[cite: 200, 201].
+- [cite_start]**Google AI & Prompting Essentials:** Integrating AI and prompt engineering into engineering workflows[cite: 202, 204].
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats & Skills
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&rank_icon=github&theme=default" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Farhan's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🎯 Professional Objective
-
-To contribute as an Embedded Systems / Firmware Engineer by developing high-performance control systems and intelligent automation solutions that meet industrial standards and real-world constraints.
+## 🔭 Active Development Projects
+- 🛠 **STM32 Bare-Metal Library:** Custom drivers for peripheral optimization.
+- [cite_start]🤖 **Autonomous Robotics:** Navigation systems using intelligent control algorithms[cite: 227].
+- [cite_start]🌐 **IoT Monitoring:** Connecting smart environments via ESP32[cite: 229].
 
 ---
 
-## 📫 Professional Contact
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/farhan-ali-3a1b0528a">
-    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ali-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Farhan%20Ali-0077B5?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:farhanjhatyal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-farhanjhatyal%40gmail.com-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-farhanjhatyal%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
----
-
 <p align="center">
-  ⚙ Engineering Intelligent Systems Through Precision, Code, and Control ⚙
+  [cite_start]<i>"Engineering Intelligent Systems Through Precision, Code, and Control"</i> [cite: 242]
 </p>
