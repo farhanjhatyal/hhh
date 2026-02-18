@@ -82,7 +82,7 @@ I am open to internships, research collaboration, and industry projects.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (linkedin.com/in/farhan-ali-3a1b0528a)
+- LinkedIn: (linkedin.com/in/farhan-ali)
 - Email: (farhanjhatyal@gmail.com)
 
 ---
